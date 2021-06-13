@@ -14,3 +14,23 @@ a {
 * {
   box-sizing: border-box;
 }
+
+header{
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 15px;
+  overflow: hidden;
+}
+
+.notFound{
+  text-align: center;
+}
+
+.notFound a{
+  color: blue;
+  text-decoration: underline;
+}
+
